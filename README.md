@@ -47,9 +47,9 @@ Welcome to my credentials repository! This space serves as a verified digital po
 | Credential / Event | Issuer | Date | Official Verification / ID | Local PDF Link |
 | :--- | :--- | :---: | :---: | :---: |
 | **Decoding Data**[cite: 7] | IBM SkillsBuild[cite: 7] | July 2025[cite: 7] | *ID: PLAN-8A8FBB92E28B*[cite: 7] | [View PDF](./DECODING%20DATA%20CERTIFICATE.pdf) |
-| **Data Analysis with Python**[cite: 10] | IBM SkillsBuild[cite: 10] | July 2025[cite: 10] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/4940732e6bcb4c459c01aff46ed9a15c)[cite: 10] | [View PDF](./IBM%SKILLBASED%DATA%ANALYSIS%WITH%PYTHON.pdf) |
-| **Big Data 101**[cite: 9] | IBM SkillsBuild[cite: 9] | July 2025[cite: 9] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/042ab53a498f4ea4b442f001e8f8c0d8)[cite: 9] | [View PDF](./IBM%SKILLBASED%BIG%DATA%101.pdf) |
-| **Green Skills & AI**[cite: 8] | Edunet / AICTE / Shell[cite: 8] | March 2025[cite: 8] | *ID: S4F25_141108*[cite: 8] | [View PDF](./EDUNET%CERTIFICATE.pdf) |
+| **Data Analysis with Python**[cite: 10] | IBM SkillsBuild[cite: 10] | July 2025[cite: 10] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/4940732e6bcb4c459c01aff46ed9a15c)[cite: 10] | [View PDF](./IBM%20SKILLBASED%20DATA%20ANALYSIS%20WITH%20PYTHON.pdf) |
+| **Big Data 101**[cite: 9] | IBM SkillsBuild[cite: 9] | July 2025[cite: 9] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/042ab53a498f4ea4b442f001e8f8c0d8)[cite: 9] | [View PDF](./IBM%20SKILLBASED%20BIG%20DATA%20101.pdf) |
+| **Green Skills & AI**[cite: 8] | Edunet / AICTE / Shell[cite: 8] | March 2025[cite: 8] | *ID: S4F25_141108*[cite: 8] | [View PDF](./EDUNET%20CERTIFICATE.pdf) |
 | **CODE-A-THON 2026 (Finalist)**[cite: 6] | VIT, Mumbai[cite: 6] | January 2026[cite: 6] | *ALGORHYTHM '26 Finalist*[cite: 6] | [View PDF](./CODE-A-THON%202026.pdf) |
 
 ---
