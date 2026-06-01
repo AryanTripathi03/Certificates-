@@ -53,7 +53,3 @@ Welcome to my credentials repository! This space serves as a verified digital po
 | **CODE-A-THON 2026 (Finalist)**[cite: 6] | VIT, Mumbai[cite: 6] | January 2026[cite: 6] | *ALGORHYTHM '26 Finalist*[cite: 6] | [View PDF](./CODE-A-THON%202026.pdf) |
 
 ---
-
-1. Clone this repository:
-```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
